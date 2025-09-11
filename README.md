@@ -11,6 +11,7 @@ I have been working on two projects at the Tissue Engineering Laboratory at Dosh
 focusing on the social implementation of AI using medical data:
 - 📱 Development of a mobile application supporting AI-based pathogen diagnosis in infectious keratitis
 - 💊 Development of Software as Medical Device (SaMD) aimed at improving medication adherence in psychiatric patients
+https://skinny-event-537.notion.site/NRI-1e70989d779280389590ed01968a5dfd?source=copy_link
 
 In these projects, I have been comprehensively involved from data collection to implementation, including:
 - 🐍 Building and evaluating AI models using Python
